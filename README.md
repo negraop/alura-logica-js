@@ -30,6 +30,8 @@ Este curso abordou os conceitos básicos de programação:
 - Operadores Relacionais (==, !=, >=, <=, etc.)
 
 
+<br>
+
 ## 2) Lógica de programação: explore funções e listas
 
 <br>
