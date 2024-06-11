@@ -14,11 +14,10 @@ A formação é separada em 4 cursos:
 
 <br>
 
-
-
 ## 1) Lógica de programação: mergulhe em programação com JavaScript
 
 <br>
+
 Este curso abordou os conceitos básicos de programação:
 
 - O que é e como utilizar variáveis;
@@ -35,9 +34,29 @@ Este curso abordou os conceitos básicos de programação:
 ## 2) Lógica de programação: explore funções e listas
 
 <br>
+
 Este curso abordou outros conceitos básicos de programação:
 
 - O que é e como utilizar funções;
 - Tipos de funções;
 - Recursividade;
 - Estrutura de dados: Arrays (Listas);
+
+
+<br>
+
+## 3) Git e GitHub: compartilhando e colaborando em projetos 
+
+<br>
+
+Este curso abordou alguns conceitos como o que é o Git e o GitHub, a diferença entre eles, e alguns comandos utilizados:
+
+````
+> git init
+> git remote add
+> git add .
+> git commit -m 'mensagem'
+> git push
+> etc...
+````
+
