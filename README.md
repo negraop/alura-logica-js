@@ -28,3 +28,14 @@ Este curso abordou os conceitos básicos de programação:
 - Concatenação de strings com Template Strings;
 - Operadores Lógicos (&&, ||, !);
 - Operadores Relacionais (==, !=, >=, <=, etc.)
+
+
+## 2) Lógica de programação: explore funções e listas
+
+<br>
+Este curso abordou outros conceitos básicos de programação:
+
+- O que é e como utilizar funções;
+- Tipos de funções;
+- Recursividade;
+- Estrutura de dados: Arrays (Listas);
