@@ -52,11 +52,12 @@ Este curso abordou outros conceitos básicos de programação:
 Este curso abordou alguns conceitos como o que é o Git e o GitHub, a diferença entre eles, e alguns comandos utilizados:
 
 ````
-> git init
-> git remote add
-> git add .
-> git commit -m 'mensagem'
-> git push
-> etc...
+> comandos iniciais (git init, git add ., git commit -m, git push, git pull)
+> git checkout ...
+> git remote add ...
+> git revert (cria um novo commit revertendo o commit em questão)
+> git reset (volta para o commit em questão, excluindo todos os outros a frente deste) !Usar com cautela, pode apagar o registro das operações realizadas.
 ````
+
+Também aprendi a escrever commits com descrição através do comando 'git commit' apenas. Ele irá abrir um editor de texto padrão do terminal, como o VI, VIM ou NANO, e com isso permitir a escrita de commits com descrição, caso precise.
 
