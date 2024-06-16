@@ -2,10 +2,23 @@ let amigosCadastrados = [];
 
 function adicionar() {
     let nome = document.getElementById('nome-amigo').value;
+    if (nome == '') {
+        alert('O campo de Nome não pode ser vazio');
+        return;
+    }
+
+    if (existeMesmoNome(nome)) {
+        alert('Este nome já existe, favor cadastrar um sobrenome');
+        return;
+    }
     amigosCadastrados.push(nome);
     atualizarLista();
     limparInputNomes();
     limparNomesSorteados();
+}
+
+function existeMesmoNome(nome) {
+    return amigosCadastrados.includes(nome);
 }
 
 function atualizarLista() {
@@ -45,6 +58,10 @@ function limparInputNomes() {
 }
 
 function sortear() {
+    if (amigosCadastrados.length < 4) {
+        alert('O minimo de participantes são 4 pessoas');
+        return;
+    }
     limparNomesSorteados();
     embaralha(amigosCadastrados);
     for (let i = 0; i < amigosCadastrados.length; i++) {
