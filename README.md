@@ -1,6 +1,11 @@
 # Alura - Formação: *A partir do zero: iniciante em programação*
 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+
+### **Link do projeto: [https://alura-logica-js.vercel.app](https://alura-logica-js.vercel.app/)**
 <br>
 
 Este repositório contempla todos os cursos contidos na Formação: *A partir do zero: iniciante em programação*.
@@ -68,3 +73,10 @@ Além disso, também aprendi a usar o Gist, uma ferramenta do GitHub para compar
 
 ## 4) Lógica de programação: praticando com desafios
 
+Este último curso foi possível treinar as habilidades aprendidas nos cursos anteriores, desenvolvendo 5 projetos:
+
+- Alugames;
+- Amigo Secreto;
+- Carrinho de Compras;
+- Ingressos;
+- Sorteador de Números;
