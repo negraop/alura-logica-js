@@ -6,6 +6,7 @@
 
 
 ### **Link do projeto: [https://alura-logica-js.vercel.app](https://alura-logica-js.vercel.app/)**
+### **Link alternativo usando GitHub Pages: [https://negraop.github.io/alura-logica-js/](https://negraop.github.io/alura-logica-js/)**
 <br>
 
 Este repositório contempla todos os cursos contidos na Formação: *A partir do zero: iniciante em programação*.
